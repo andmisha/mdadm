@@ -386,4 +386,4 @@ sda               8:0    0    10G  0 disk
 │ ├─centos-swap 253:1    0     1G  0 lvm   [SWAP]
 │ └─centos-root 253:0    0     8G  0 lvm   /
 └─sda1            8:1    0     1G  0 part  /boot
-``
+```
